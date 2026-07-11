@@ -136,7 +136,7 @@ It is designed to simulate features similar to database tools like MySQL Workben
 
 ## 👨‍💻 Author
 
-**Suraj Uttamchand Oswal**
+**Oswal Suraj**
 📧 [surajoswal39@gmail.com](mailto:surajoswal39@gmail.com)
 
 ---
