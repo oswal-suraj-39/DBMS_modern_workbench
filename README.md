@@ -81,7 +81,7 @@ It is designed to simulate features similar to database tools like MySQL Workben
 2. Clone the repository:
 
    ```
-   git clone https://github.com/suraj-oswal-39/DBMS_modern_workbench.git
+   git clone https://github.com/oswal-suraj-39/DBMS_modern_workbench.git
    ```
 
 3. Install dependencies:
@@ -136,8 +136,8 @@ It is designed to simulate features similar to database tools like MySQL Workben
 
 ## 👨‍💻 Author
 
-**Suraj Uttamchand Oswal**
-📧 [surajoswal3@gmail.com](mailto:surajoswal3@gmail.com)
+**Oswal Suraj**
+📧 [oswalsuraj369@gmail.com](mailto:oswalsuraj369@gmail.com)
 
 ---
 
