@@ -10,26 +10,15 @@ It is designed to simulate features similar to database tools like MySQL Workben
 
 ## 🚀 Features
 
-* 📁 Create and delete databases
-* 📊 Create, modify, and delete tables
-* 🧱 Add and remove columns dynamically
-* 🔑 Support for:
-
-  * Primary Key
-  * Foreign Key
-  * NOT NULL
-  * AUTO_INCREMENT
-  * DEFAULT values
-* 📄 View table data in grid format
-* ✏️ Insert and delete rows
-* 🧠 Execute custom SQL queries
-* 🎨 Interactive UI with:
-
-  * SVG-based design
-  * Tooltips and popups
-  * Gradient themes
-  * Dark mode interface
-
+* Developed a dynamic table creation interface supporting multiple data types, Primary Key, NOT NULL, UNIQUE, AUTO_INCREMENT, UNSIGNED, and DEFAULT constraints.
+* Implemented CRUD operations (Create, Read, Update, Delete) for table records.
+* Integrated MySQL INFORMATION_SCHEMA queries to retrieve table metadata, including column information and key constraints.
+* Developed a visual SQL SELECT query builder supporting WHERE, GROUP BY, HAVING, ORDER BY, and LIMIT clauses.
+* Implemented a custom SQL query editor for executing SQL statements and displaying query results.
+* Developed REST API endpoints using Node.js and Express.js for frontend-backend communication.
+* Implemented PDF export functionality using PDFKit to generate downloadable table reports.
+* Designed an interactive user interface featuring dark/light themes, dynamic search, keyboard shortcuts, and draggable popup windows.
+  
 ---
 
 ## 🛠️ Tech Stack
